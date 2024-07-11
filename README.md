@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @niran31Jan
-- 👀 I’m interested in Machine Learning & Deep Learning
+- 👀 I’m interested in Data Analyst,Machine Learning & Deep Learning
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me niranjankadam606@gmail.com
